@@ -21,6 +21,8 @@ Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seoran
 - CSS
 - JavaScript
 
+## Preview
+- ![Website Preview]
 
 
 
