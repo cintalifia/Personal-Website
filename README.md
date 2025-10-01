@@ -22,4 +22,4 @@ Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seoran
 - JavaScript
 
 ## Preview
-- ![Website Preview]
+- ![Website Preview](/assets/ca.png)
