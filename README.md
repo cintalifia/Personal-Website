@@ -1,4 +1,3 @@
-
 ## Personal Website 
 Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seorang yang tertarik pada Data Analysis dan UI/UX Design
 
@@ -22,7 +21,7 @@ Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seoran
 - CSS
 - JavaScript
 
-## Preview
-- ![Website Preview]
+
+
 
 
