@@ -6,7 +6,7 @@ Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seoran
 
 ## Social Media
 - [GitHub](https://github.com/cintalifia)
-- [LinkedIn](https://linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/cntalifia)
 - [Instagram](https://www.instagram.com/cntalifia/)
 
 ## Pages
