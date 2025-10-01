@@ -1,5 +1,5 @@
 ## Personal Website 
-Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seorang yang tertarik pada Data Analysis dan UI/UX Design
+Cara update readme aja masa gak tau dah aneh bocah red flag
 
 ## Links 
 - [Figma](https://www.figma.com/design/9SOgCbvZaFQbVFTlNyXzex/personal-website-cinta?node-id=0-1&t=S0pm1mMqpfxunAM0-1)
@@ -20,6 +20,7 @@ Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seoran
 - HTML
 - CSS
 - JavaScript
+
 
 
 
