@@ -19,7 +19,6 @@ Website ini saya buat untuk menampilkan karya dan perjalanan saya sebagai seoran
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Preview
 - ![Website Preview](/assets/ca.png)
