@@ -101,21 +101,21 @@
         }
 
     /* Header Styles */
-header {
-    background-color: #E5E7EB;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 1000;
-}
+    header {
+        background-color: #E5E7EB;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 1000;
+    }
 
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: left;
-    padding: 20px 0;
-}
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px 0;
+    }
 
 .logo {
     font-size: 1.8rem;
@@ -525,7 +525,11 @@ header {
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 35px;
-    color: #111827; /* ✅ hitam clean seperti Contact */
+    color: #111827; /* ✅ hitam (sama seperti contact dark) */
+}
+
+.project-title span {
+    color: var(--primary); /* ✅ hijau sama seperti contact */
 }
 
 /* Grid Card */
@@ -540,7 +544,7 @@ header {
 
 /* ===== Card ===== */
 .card {
-    background-color: #D9D9D9; /* ✅ warna card sesuai permintaan */
+    background-color: #D9D9D9;
     border-radius: 14px;
     padding: 25px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -564,17 +568,17 @@ header {
     object-fit: cover;
 }
 
-/* ===== TEXT STYLE (match Contact) ===== */
+/* ===== TEXT STYLE (disamakan dengan Contact style) ===== */
 .card h2 {
     font-size: 1.3rem;
-    font-weight: 700;
+    font-weight: 700; /* ✅ lebih tegas biar konsisten */
     margin-bottom: 10px;
-    color: #111827; /* ✅ hitam sama dengan Contact heading */
+    color: #111827; /* ✅ hitam, sama dengan contact */
 }
 
 .card p {
     font-size: 1rem;
-    color: #374151; /* ✅ abu gelap seperti Contact paragraph */
+    color: #374151; /* ✅ abu gelap seperti contact paragraph */
     line-height: 1.6;
     margin-bottom: 20px;
     flex-grow: 1;
@@ -583,7 +587,7 @@ header {
 /* ===== Button ===== */
 .card-button {
     align-self: center;
-    background-color: var(--primary); /* ✅ hijau seperti Contact */
+    background-color: var(--primary); /* ✅ hijau sama seperti contact */
     border: none;
     color: #fff;
     padding: 12px 24px;
@@ -596,7 +600,7 @@ header {
 }
 
 .card-button:hover {
-    background-color: var(--secondary); /* ✅ hover hijau gelap */
+    background-color: var(--secondary); /* ✅ efek hover hijau gelap */
 }
 
 /* ===== Responsive ===== */
@@ -611,7 +615,6 @@ header {
         height: 160px;
     }
 }
-
 
 
 
